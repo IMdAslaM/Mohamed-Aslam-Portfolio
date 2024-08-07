@@ -1,6 +1,6 @@
-# Data Scientist
+# Data Science Enthusiast
 
-**Technial Skills: Python, Machine Learning, Data Science, SQL, NLP, GenAI**
+**Technial Skills:** *Python, Machine Learning, Data Science, SQL, NLP, GenAI*
 
 ### Education
 - Master Program | Indain Institute of Technology, Madras (June 2024)
