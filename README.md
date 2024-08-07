@@ -1,8 +1,8 @@
 # Data Scientist
 
 ### Education
--Master Program | Indain Institute of Technology, Madras (June 2024)
--B.Tech | Crescent Institute of Science and Technology (June 2022)
+- Master Program | Indain Institute of Technology, Madras (June 2024)
+- B.Tech | Crescent Institute of Science and Technology (June 2022)
 
 ### Work Experience
 Junior Software Engineer @ Cognizant
