@@ -1,5 +1,7 @@
 # Data Scientist
 
+**Technial Skills:** Python, Machine Learning, Data Science, SQL, NLP, GenAI
+
 ### Education
 - Master Program | Indain Institute of Technology, Madras (June 2024)
 - B.Tech | Crescent Institute of Science and Technology (June 2022)
