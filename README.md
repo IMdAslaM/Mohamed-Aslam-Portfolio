@@ -17,14 +17,14 @@
 
 ## Projects
 **1) LLM based ChatBot for redBus website**      
-- I have created a LLM Based ChatBot for redBus website using LangChain, Streamlit, HuggingFace and Google Palm Model. This ChatBot can answer your queries on redBus.
+- Created a LLM Based ChatBot for redBus website using LangChain, Streamlit, HuggingFace and Google Palm Model. I have scraped the data from redBus website using Beautiful Soup to train the model. This ChatBot can answer your queries on redBus.
 
 - *Skills Used:* Langchain, Hugging face, Streamlit, Google Palm Model, VectorDataBase, WordEmbeddingTechniques, webscrapping using BeautifulSoup, GenAI
 
 [Chat Bot - Project Link](https://llm-based-chatbot-for-redbus-fkrvppuofyxxdclgymc9me.streamlit.app/)
 
 **2) Industrial Copper Modeling – ML Project**  
-- I have applied various data preprocesing techniques such as Outliers,Skewness,EDA, Sampling and also applied regularization technique on data and Trained ML model for Prediction and Classification with accuracy over 85% for the copper industry which deals with complex data related to sales and pricing.
+- Applied various data preprocesing techniques such as Outliers,Skewness,EDA, Sampling and also applied regularization technique on data and Trained ML model for Prediction and Classification with accuracy over 85% for the copper industry which deals with complex data related to sales and pricing.
 
 - *Skills Used:* Python Scripting, Data Preprocessing, Statistical Data Analysis, EDA, Machine Learning, Regression, Classification, Building/Training ML Model, Fine Tuning Model, Streamlit
 
