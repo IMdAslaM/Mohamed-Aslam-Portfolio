@@ -1,13 +1,13 @@
 # Data Science Enthusiast
 
-**Technial Skills:** *Python, Machine Learning, Data Science, SQL, NLP, GenAI*
+**Technial Skills:** Python, Machine Learning, Data Science, SQL, NLP, GenAI
 
-### Education
+## Education
 - Master Program | Indain Institute of Technology, Madras (June 2024)
 - B.Tech | Crescent Institute of Science and Technology (June 2022)
 
-### Work Experience
-Junior Software Engineer @ Cognizant
+## Work Experience
+**Junior Software Engineer @ Cognizant**
 - Prioritized Tasks and Completed in order of importance.
 - Debugged SQL Stored Procedures and provided permanent solution for Problems and temporary solutions for incidents.
 - Innovated and crafted efficient Python scripts, establishing proficiency as a coding maestro with a keen eye for elegance and functionality.
@@ -15,7 +15,7 @@ Junior Software Engineer @ Cognizant
 - Worked closely with peers to identify issues and provide suitable resolutions.
 - Contributed ideas and suggestions in team meetings and delivered updates on deadlines, designs, and enhancements.
 
-### Projects
+## Projects
 **1) LLM based ChatBot for redBus website**      
 - I have created a LLM Based ChatBot for redBus website using LangChain, Streamlit, HuggingFace and Google Palm Model. This ChatBot can answer about the services provided by redBus.
 
