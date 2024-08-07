@@ -19,7 +19,7 @@ Junior Software Engineer @ Cognizant
 
 **2) Industrial Copper Modeling – ML Project**                                       
 **Skills Used:** Python Scripting, Data Preprocessing, Statistical Data Analysis, EDA, Machine Learning, Regression, Classification, Building/Training ML Model, Fine Tuning Model, Streamlit
-[**Project Link**](https://copper-modeling-ml-project-cjo7z7xbza6xyajbpqdkbt.streamlit.app/)
+[Project Link](https://copper-modeling-ml-project-cjo7z7xbza6xyajbpqdkbt.streamlit.app/)
 
 **3) Vaccine Prediction - ML Project**
 **Skills Used:** Python Scripting, Data Preprocessing, Statistical Data Analysis, EDA, Machine Learning, Classification, Building/Training ML Model, Fine Tuning Model
