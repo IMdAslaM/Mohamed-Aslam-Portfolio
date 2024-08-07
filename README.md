@@ -15,8 +15,9 @@ Junior Software Engineer @ Cognizant
 
 ### Projects
 **1) LLM based ChatBot for redBus website**      
+- I have created a LLM Based ChatBot for redBus website using LangChain, Streamlit, HuggingFace and Google Palm Model. This ChatBot can answer about the services provided by redBus.
 
-*Skills Used:* Langchain, Hugging face, Streamlit, Google Palm Model, VectorDataBase, WordEmbeddingTechniques, webscrapping using BeautifulSoup, GenAI
+- *Skills Used:* Langchain, Hugging face, Streamlit, Google Palm Model, VectorDataBase, WordEmbeddingTechniques, webscrapping using BeautifulSoup, GenAI
 
 [Project Link](https://llm-based-chatbot-for-redbus-fkrvppuofyxxdclgymc9me.streamlit.app/)
 
