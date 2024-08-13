@@ -8,11 +8,11 @@
 
 ## Work Experience
 **Junior Software Engineer @ Cognizant**
-- Prioritized Tasks and Completed in order of importance.
-- Debugged SQL Stored Procedures and provided permanent solution for Problems and temporary solutions for incidents.
 - Innovated and crafted efficient Python scripts, establishing proficiency as a coding maestro with a keen eye for elegance and functionality.
+- Debugged SQL Stored Procedures and provided permanent solution for Problems and temporary solutions for incidents.
 - Developed reports using SQL Server reporting services.
 - Worked closely with peers to identify issues and provide suitable resolutions.
+- Prioritized Tasks and Completed in order of importance.
 - Contributed ideas and suggestions in team meetings and delivered updates on deadlines, designs, and enhancements.
 
 ## Projects
