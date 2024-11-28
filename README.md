@@ -7,7 +7,7 @@
 - B.Tech | Crescent Institute of Science and Technology (June 2022)
 
 ## Work Experience
-**Junior Software Engineer @ Cognizant**
+**Software Engineer @ Cognizant**
 - Innovated and crafted efficient Python scripts, establishing proficiency as a coding maestro with a keen eye for elegance and functionality.
 - Debugged SQL Stored Procedures and provided permanent solution for Problems and temporary solutions for incidents.
 - Developed reports using SQL Server reporting services.
