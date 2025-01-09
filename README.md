@@ -1,6 +1,6 @@
 # AI Engineer
 
-**Technial Skills:** Python, Machine Learning, Data Science, SQL, NLP, GenAI, Largr Language Models(LLMs), Vector Databases, Embedding Techniques, RAG
+**Technial Skills:** Python, FastAPI, Backend Development, Machine Learning, Data Science, SQL, NLP, GenAI, Largr Language Models(LLMs), Vector Databases, Embedding Techniques, RAG
 
 ## Education
 - Master Program | Indain Institute of Technology, Madras (June 2024)
