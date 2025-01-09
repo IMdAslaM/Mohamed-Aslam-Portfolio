@@ -1,6 +1,6 @@
-# Data Science Enthusiast
+# AI Engineer
 
-**Technial Skills:** Python, Machine Learning, Data Science, SQL, NLP, GenAI
+**Technial Skills:** Python, Machine Learning, Data Science, SQL, NLP, GenAI, Largr Language Models(LLMs), Vector Databases, Embedding Techniques, RAG
 
 ## Education
 - Master Program | Indain Institute of Technology, Madras (June 2024)
@@ -8,38 +8,25 @@
 
 ## Work Experience
 **Software Engineer @ Cognizant**
-- Innovated and crafted efficient Python scripts, establishing proficiency as a coding maestro with a keen eye for elegance and functionality.
-- Debugged SQL Stored Procedures and provided permanent solution for Problems and temporary solutions for incidents.
-- Developed reports using SQL Server reporting services.
-- Worked closely with peers to identify issues and provide suitable resolutions.
-- Prioritized Tasks and Completed in order of importance.
-- Contributed ideas and suggestions in team meetings and delivered updates on deadlines, designs, and enhancements.
+•	**Domain-Specific Chatbot Development:** Developing generative AI chatbots tailored to specific industries (e.g., healthcare, finance, customer support) to meet specialized business requirements.
+•	**Generative AI Models:** Using OpenAI model for building domain-specific conversational agents capable of understanding and generating human-like text.
+•	**Natural Language Processing (NLP):** Proficient in implementing NLP techniques like intent recognition, entity extraction, and context management for accurate domain-based interactions.
+•	**Fine-Tuning Models:** Skilled in fine-tuning large language models (LLMs) on domain-specific datasets to ensure relevant and accurate chatbot responses.
+•	**Prompt Engineering:** Designing effective prompts and optimizing model responses for enhanced user interactions.
+
 
 ## Projects
-**1) LLM based ChatBot for redBus website**      
-- Created a LLM Based ChatBot for redBus website using LangChain, Streamlit, HuggingFace and Google Palm Model. I have scraped the data from redBus website using Beautiful Soup to train the model. This ChatBot can answer your queries on redBus.
+**1) LLM based ChatBot for Banking Domain**
+•	Developed an advanced chatbot leveraging GPT model and Azure OpenAI embeddings. 
+•	This chatbot is designed to generate detailed advisor summaries for traders, including key headlines, stock recommendations, actionable insights, and reference links. It utilizes a custom prompt template to provide structured, context-aware responses based on client profiles and holdings, enhancing decision-making and business growth
+•	Key Skills: Langchain, GPT Model, Azure OpenAI embeddings,  Streamlit, VectorDataBase, WordEmbeddingTechniques, FAISS, GenAI, API Integration, Fast API.
 
-- *Skills Used:* Langchain, Hugging face, Streamlit, Google Palm Model, VectorDataBase, WordEmbeddingTechniques, webscrapping using BeautifulSoup, GenAI
+**2) ChatBot for Small Businesses**
+•	Engineered a chatbot solution utilizing Azure OpenAI LLM and retriever for small businesses, including coffee corners, bakeries, and fashion stores, to enhance customer interactions and to advise business owners  about present scenario in respective industry .
+•	Tailored chatbot capabilities to the unique requirements of each business type, boosting customer engagement and streamlining operational efficiency.
 
-[Chat Bot - Project Link](https://llm-based-chatbot-for-redbus-fkrvppuofyxxdclgymc9me.streamlit.app/)
+**3) Industrial Copper Modeling**
+•	Applied various data preprocesing techniques such as Outliers, Skewness, EDA, Sampling and also applied regularization technique on data and Trained ML model for Prediction and Classification with accuracy over 85% for the copper industry which deals with complex data related to sales and pricing.
+•	Key Skills: Python Scripting, Data Preprocessing, Statistical Data Analysis, EDA, Machine Learning, Regression, Classification
 
-**2) Industrial Copper Modeling – ML Project**  
-- Applied various data preprocesing techniques such as Outliers,Skewness,EDA, Sampling and also applied regularization technique on data and Trained ML model for Prediction and Classification with accuracy over 85% for the copper industry which deals with complex data related to sales and pricing.
-
-- *Skills Used:* Python Scripting, Data Preprocessing, Statistical Data Analysis, EDA, Machine Learning, Regression, Classification, Building/Training ML Model, Fine Tuning Model, Streamlit
-
-[Copper Modeling - Project Link](https://copper-modeling-ml-project-cjo7z7xbza6xyajbpqdkbt.streamlit.app/)
-
-**3) Vaccine Prediction - ML Project** 
-- This project aims to predict the likelihood of people taking an H1N1 flu vaccine using Logistic Regression. I have analyzed a dataset containing various features related to individuals' behaviors, perceptions, and demographics, and built a predictive model to determine vaccine acceptance.
-
-- *Skills Used:* Python Scripting, Data Preprocessing, Statistical Data Analysis, EDA, Machine Learning, Classification, Building/Training ML Model, Fine Tuning Model
-
-[Vaccine Prediction - Project Link](https://vaccine-prediction-ml-project-v2rkhfkegcehq2kzdxezbf.streamlit.app/)
-
-**4) YouTube Data Harvesting and Warehousing using SQL and Streamlit**
--  I have Scrapped the channel's data from youtube, by connecting to youtube's API. And Stored the data in MongoDB in the form of Collections. Taking data from MongoDB and converting it to Pandas dataframe to insert the data to SQL database in the form table. Now we can do data analysis on the channel's data from SQL database.
-- *Skills Used:* Python Scripting, Data Collection, Data Management Using SQL, MongoDB, Data Analysis, API Integration, Streamlit, Data Engineering
-
-[YouTube Data Harvesting - Project Link](https://github.com/IMdAslaM/YouTube-Data-Harvesting-and-Warehousing)
 
