@@ -5,11 +5,11 @@ AI Engineer with strong experience in building enterprise GenAI applications, LL
 
 
 ## Core Technical Skills
-- **Programming:** Python, SQL
-- **AI & GenAI:** LLMs (Mistral, GPT, NIM), PEFT, RAG, Agentic AI, Prompt Engineering
-- **Frameworks & Tools:** FastAPI, Docker, LangChain, CrewAI, Streamlit
-- **ML & Data:** Regression, Classification, EDA, Feature Engineering, Model Tuning
-- **Others:** Vector Databases, API Development, Data Preprocessing, Data Security & Guardrails
+- ***Programming:*** Python, SQL
+- ***AI & GenAI:*** LLMs (Mistral, GPT, NIM), PEFT, RAG, Agentic AI, Prompt Engineering
+- ***Frameworks & Tools:*** FastAPI, Docker, LangChain, CrewAI, Streamlit
+- ***ML & Data:*** Regression, Classification, EDA, Feature Engineering, Model Tuning
+- ***Others:*** Vector Databases, API Development, Data Preprocessing, Data Security & Guardrails
 
 
 ## Education
@@ -62,7 +62,7 @@ AI Engineer with strong experience in building enterprise GenAI applications, LL
 - Strong analytical and problem-solving skills
 - Experience delivering enterprise AI solutions
 - Excellent communication and documentation
-- Ability to work in multicultural teams (important for UAE)
+- Ability to work in multicultural teams
 - Adaptable, fast learner, and committed to continuous improvement
 
 
