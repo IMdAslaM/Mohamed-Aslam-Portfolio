@@ -31,11 +31,11 @@ AI Engineer with strong experience in building enterprise GenAI applications, LL
 - Implemented a FastAPI backend to support real-time communication between agents and front-end interfaces.
 
 ### LLM Development & Guardrail Engineering (Insurance Domain)
--**Mistral 7B Fine-Tuning & Deployment**
+- **Mistral 7B Fine-Tuning & Deployment**
 - Fine-tuned Mistral 7B using PEFT, resulting in 18% improvement in insurance NLP tasks.
 - Containerized model deployment using Docker, reducing rollout time by 40%.
 
--**Enterprise-Grade LLM Guardrails**
+- **Enterprise-Grade LLM Guardrails**
 - Implemented Nemo-Guardrails for self-hosted LLMs, ensuring safe and compliant conversational behavior.
 - Integrated guardrails into an insurance chatbot achieving 100% adherence to internal safety and regulatory standards.
 - Developed custom PII masking logic, reducing sensitive data exposure by 90%.
@@ -43,23 +43,23 @@ AI Engineer with strong experience in building enterprise GenAI applications, LL
 - Identified a critical documentation issue in NVIDIA CrewAI Blueprint related to mandatory NIM API key usage, enabling internal teams to avoid integration failures.
 
 ### Conversational AI Projects
--**LLM-Based Banking Chatbot (Banking Domain)**
+- **LLM-Based Banking Chatbot (Banking Domain)**
 - Built a GPT-powered chatbot POC to generate financial advisor summaries, market insights, and stock recommendations.
 - Designed for scalability and potential use by 500+ traders, improving decision-making workflows.
   
--**Small Business Chatbot (Retail & Food Domain)**
+- **Small Business Chatbot (Retail & Food Domain)**
   
 - Developed chatbots using Azure OpenAI + Retriever architecture for coffee shops, bakeries, and retail stores.
 - Achieved 40% growth in pilot user engagement through personalized customer interactions.
 - Integrated LangChain, FAISS, Streamlit, and FastAPI for seamless deployment.
 
 ### Machine Learning & Data Science Projects
--**Industrial Copper Modeling (Manufacturing Domain)**
+- **Industrial Copper Modeling (Manufacturing Domain)**
 - Applied EDA, outlier handling, skewness correction, sampling, and regularization techniques.
 - Built predictive ML models achieving 85%+ accuracy for pricing and quality estimation.
 - Enhanced decision-making and process optimization for manufacturing teams.
   
--**Vaccine Response Prediction (Healthcare Domain)**  
+- **Vaccine Response Prediction (Healthcare Domain)**  
 
 - Built classification models using medical datasets to predict vaccine outcomes with high accuracy.
 - Performed feature engineering, statistical analysis, and model tuning for reliable predictions.<br><br>
