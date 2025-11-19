@@ -15,7 +15,7 @@ AI Engineer with strong experience in building enterprise GenAI applications, LL
 - B.Tech | Crescent Institute of Science and Technology (June 2022)
 
 ## Professional Experience
-**Software Engineer | Cognizant | June 2022 – Present | Chennai, India**
+***Software Engineer | Cognizant | June 2022 – Present | Chennai, India***
 
 ### Agentic JIRA Workflow Automation (CrewAI | Software Engineering Domain)
 - Developed an end-to-end agentic automation system using CrewAI to convert BRDs into structured user stories, reducing manual JIRA ticket effort by 50%.
