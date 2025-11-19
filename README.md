@@ -16,7 +16,8 @@ AI Engineer with strong experience in building enterprise GenAI applications, LL
 
 ## Education
 - Master Program | Indain Institute of Technology, Madras (June 2024)
-- B.Tech | Crescent Institute of Science and Technology (June 2022) <br><br>
+- B.Tech | Crescent Institute of Science and Technology (June 2022)
+<br><br>
 
 
 
