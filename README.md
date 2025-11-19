@@ -3,6 +3,7 @@
 ## Professional Summary
 AI Engineer with strong experience in building enterprise GenAI applications, LLM fine-tuning, agentic automation solutions, and secure NLP systems. Skilled in Python, FastAPI, Docker, CrewAI, Mistral, Nemo-Guardrails, and cloud technologies. Delivered AI solutions for banking, insurance, retail, and manufacturing domains with measurable impact on automation, compliance, and operational efficiency. Actively seeking AI/ML roles in the UAE with readiness for immediate relocation.
 
+
 ## Core Technical Skills
 - **Programming:** Python, SQL
 - **AI & GenAI:** LLMs (Mistral, GPT, NIM), PEFT, RAG, Agentic AI, Prompt Engineering
@@ -10,9 +11,11 @@ AI Engineer with strong experience in building enterprise GenAI applications, LL
 - **ML & Data:** Regression, Classification, EDA, Feature Engineering, Model Tuning
 - **Others:** Vector Databases, API Development, Data Preprocessing, Data Security & Guardrails
 
+
 ## Education
 - Master Program | Indain Institute of Technology, Madras (June 2024)
 - B.Tech | Crescent Institute of Science and Technology (June 2022)
+
 
 ## Professional Experience
 ***Software Engineer | Cognizant | June 2022 – Present | Chennai, India***
@@ -54,12 +57,14 @@ AI Engineer with strong experience in building enterprise GenAI applications, LL
 - Built classification models using medical datasets to predict vaccine outcomes with high accuracy.
 - Performed feature engineering, statistical analysis, and model tuning for reliable predictions.
 
+
 ## Strengths & Professional Attributes
 - Strong analytical and problem-solving skills
 - Experience delivering enterprise AI solutions
 - Excellent communication and documentation
 - Ability to work in multicultural teams (important for UAE)
 - Adaptable, fast learner, and committed to continuous improvement
+
 
 ## Location & Availability
 **Currently in Dubai, UAE**
