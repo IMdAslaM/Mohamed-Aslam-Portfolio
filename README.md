@@ -67,7 +67,7 @@ AI Engineer with strong experience in building enterprise GenAI applications, LL
 
 
 ## Location & Availability
-**Currently in Dubai, UAE**
+**Currently in Dubai, UAE.**
 **Available to join immediately for AI/ML/GenAI roles**
 **Open to opportunities in:**
 - Banking & Finance
