@@ -21,7 +21,7 @@ AI Engineer with strong experience in building enterprise GenAI applications, LL
 
 
 ## Professional Experience
-&nbsp;&nbsp;&nbsp;***Software Engineer | Cognizant | June 2022 – Present | Chennai, India***
+&nbsp;&nbsp;&nbsp;&nbsp;***Software Engineer | Cognizant | June 2022 – Present | Chennai, India***
 
 ### Agentic JIRA Workflow Automation (CrewAI | Software Engineering Domain)
 - Developed an end-to-end agentic automation system using CrewAI to convert BRDs into structured user stories, reducing manual JIRA ticket effort by 50%.
@@ -32,11 +32,11 @@ AI Engineer with strong experience in building enterprise GenAI applications, LL
 
 ### LLM Development & Guardrail Engineering (Insurance Domain)
 
-&nbsp;&nbsp;&nbsp;**Mistral 7B Fine-Tuning & Deployment**
+&nbsp;&nbsp;&nbsp;&nbsp;**Mistral 7B Fine-Tuning & Deployment**
 - Fine-tuned Mistral 7B using PEFT, resulting in 18% improvement in insurance NLP tasks.
 - Containerized model deployment using Docker, reducing rollout time by 40%.
 
-&nbsp;&nbsp;&nbsp;**Enterprise-Grade LLM Guardrails**
+&nbsp;&nbsp;&nbsp;&nbsp;**Enterprise-Grade LLM Guardrails**
 - Implemented Nemo-Guardrails for self-hosted LLMs, ensuring safe and compliant conversational behavior.
 - Integrated guardrails into an insurance chatbot achieving 100% adherence to internal safety and regulatory standards.
 - Developed custom PII masking logic, reducing sensitive data exposure by 90%.
@@ -45,11 +45,11 @@ AI Engineer with strong experience in building enterprise GenAI applications, LL
 
 ### Conversational AI Projects
 
-&nbsp;&nbsp;&nbsp;**LLM-Based Banking Chatbot (Banking Domain)**
+&nbsp;&nbsp;&nbsp;&nbsp;**LLM-Based Banking Chatbot (Banking Domain)**
 - Built a GPT-powered chatbot POC to generate financial advisor summaries, market insights, and stock recommendations.
 - Designed for scalability and potential use by 500+ traders, improving decision-making workflows.
   
-&nbsp;&nbsp;&nbsp;**Small Business Chatbot (Retail & Food Domain)**
+&nbsp;&nbsp;&nbsp;&nbsp;**Small Business Chatbot (Retail & Food Domain)**
   
 - Developed chatbots using Azure OpenAI + Retriever architecture for coffee shops, bakeries, and retail stores.
 - Achieved 40% growth in pilot user engagement through personalized customer interactions.
@@ -57,12 +57,12 @@ AI Engineer with strong experience in building enterprise GenAI applications, LL
 
 ### Machine Learning & Data Science Projects
 
-&nbsp;&nbsp;&nbsp;**Industrial Copper Modeling (Manufacturing Domain)**
+&nbsp;&nbsp;&nbsp;&nbsp;**Industrial Copper Modeling (Manufacturing Domain)**
 - Applied EDA, outlier handling, skewness correction, sampling, and regularization techniques.
 - Built predictive ML models achieving 85%+ accuracy for pricing and quality estimation.
 - Enhanced decision-making and process optimization for manufacturing teams.
 
-&nbsp;&nbsp;&nbsp;**Vaccine Response Prediction (Healthcare Domain)**  
+&nbsp;&nbsp;&nbsp;&nbsp;**Vaccine Response Prediction (Healthcare Domain)**  
 
 - Built classification models using medical datasets to predict vaccine outcomes with high accuracy.
 - Performed feature engineering, statistical analysis, and model tuning for reliable predictions.<br><br>
