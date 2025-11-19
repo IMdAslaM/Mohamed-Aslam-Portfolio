@@ -31,6 +31,7 @@ AI Engineer with strong experience in building enterprise GenAI applications, LL
 - Implemented a FastAPI backend to support real-time communication between agents and front-end interfaces.
 
 ### LLM Development & Guardrail Engineering (Insurance Domain)
+
   **Mistral 7B Fine-Tuning & Deployment**
 - Fine-tuned Mistral 7B using PEFT, resulting in 18% improvement in insurance NLP tasks.
 - Containerized model deployment using Docker, reducing rollout time by 40%.
@@ -43,6 +44,7 @@ AI Engineer with strong experience in building enterprise GenAI applications, LL
 - Identified a critical documentation issue in NVIDIA CrewAI Blueprint related to mandatory NIM API key usage, enabling internal teams to avoid integration failures.
 
 ### Conversational AI Projects
+
   **LLM-Based Banking Chatbot (Banking Domain)**
 - Built a GPT-powered chatbot POC to generate financial advisor summaries, market insights, and stock recommendations.
 - Designed for scalability and potential use by 500+ traders, improving decision-making workflows.
@@ -54,6 +56,7 @@ AI Engineer with strong experience in building enterprise GenAI applications, LL
 - Integrated LangChain, FAISS, Streamlit, and FastAPI for seamless deployment.
 
 ### Machine Learning & Data Science Projects
+
   **Industrial Copper Modeling (Manufacturing Domain)**
 - Applied EDA, outlier handling, skewness correction, sampling, and regularization techniques.
 - Built predictive ML models achieving 85%+ accuracy for pricing and quality estimation.
