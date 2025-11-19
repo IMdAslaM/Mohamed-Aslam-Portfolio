@@ -45,11 +45,11 @@ AI Engineer with strong experience in building enterprise GenAI applications, LL
 
 ### Conversational AI Projects
 
-  **LLM-Based Banking Chatbot (Banking Domain)**
+&nbsp;&nbsp;&nbsp;**LLM-Based Banking Chatbot (Banking Domain)**
 - Built a GPT-powered chatbot POC to generate financial advisor summaries, market insights, and stock recommendations.
 - Designed for scalability and potential use by 500+ traders, improving decision-making workflows.
   
-  **Small Business Chatbot (Retail & Food Domain)**
+&nbsp;&nbsp;&nbsp;**Small Business Chatbot (Retail & Food Domain)**
   
 - Developed chatbots using Azure OpenAI + Retriever architecture for coffee shops, bakeries, and retail stores.
 - Achieved 40% growth in pilot user engagement through personalized customer interactions.
@@ -57,12 +57,12 @@ AI Engineer with strong experience in building enterprise GenAI applications, LL
 
 ### Machine Learning & Data Science Projects
 
-  **Industrial Copper Modeling (Manufacturing Domain)**
+&nbsp;&nbsp;&nbsp;**Industrial Copper Modeling (Manufacturing Domain)**
 - Applied EDA, outlier handling, skewness correction, sampling, and regularization techniques.
 - Built predictive ML models achieving 85%+ accuracy for pricing and quality estimation.
 - Enhanced decision-making and process optimization for manufacturing teams.
 
-  **Vaccine Response Prediction (Healthcare Domain)**  
+&nbsp;&nbsp;&nbsp;**Vaccine Response Prediction (Healthcare Domain)**  
 
 - Built classification models using medical datasets to predict vaccine outcomes with high accuracy.
 - Performed feature engineering, statistical analysis, and model tuning for reliable predictions.<br><br>
