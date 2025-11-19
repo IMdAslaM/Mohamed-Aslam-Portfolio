@@ -1,7 +1,7 @@
 # AI Engineer
 
 ## Professional Summary
-AI Engineer with strong experience in building enterprise GenAI applications, LLM fine-tuning, agentic automation solutions, and secure NLP systems. Skilled in Python, FastAPI, Docker, CrewAI, Mistral, Nemo-Guardrails, and cloud technologies. Delivered AI solutions for banking, insurance, retail, and manufacturing domains with measurable impact on automation, compliance, and operational efficiency. Actively seeking AI/ML roles in the UAE with readiness for immediate relocation.
+AI Engineer with strong experience in building enterprise GenAI applications, LLM fine-tuning, agentic automation solutions, and secure NLP systems. Skilled in Python, FastAPI, Docker, CrewAI, Mistral, Nemo-Guardrails, and cloud technologies. Delivered AI solutions for banking, insurance, retail, and manufacturing domains with measurable impact on automation, compliance, and operational efficiency. Actively seeking AI/ML roles in the UAE with readiness for immediate relocation.<br><br>
 
 
 
@@ -10,13 +10,13 @@ AI Engineer with strong experience in building enterprise GenAI applications, LL
 - ***AI & GenAI:*** LLMs (Mistral, GPT, NIM), PEFT, RAG, Agentic AI, Prompt Engineering
 - ***Frameworks & Tools:*** FastAPI, Docker, LangChain, CrewAI, Streamlit
 - ***ML & Data:*** Regression, Classification, EDA, Feature Engineering, Model Tuning
-- ***Others:*** Vector Databases, API Development, Data Preprocessing, Data Security & Guardrails
+- ***Others:*** Vector Databases, API Development, Data Preprocessing, Data Security & Guardrails<br><br>
 
 
 
 ## Education
 - Master Program | Indain Institute of Technology, Madras (June 2024)
-- B.Tech | Crescent Institute of Science and Technology (June 2022)
+- B.Tech | Crescent Institute of Science and Technology (June 2022)<br><br>
 
 
 
@@ -62,7 +62,7 @@ AI Engineer with strong experience in building enterprise GenAI applications, LL
 **Vaccine Response Prediction (Healthcare Domain)**  
 
 - Built classification models using medical datasets to predict vaccine outcomes with high accuracy.
-- Performed feature engineering, statistical analysis, and model tuning for reliable predictions.
+- Performed feature engineering, statistical analysis, and model tuning for reliable predictions.<br><br>
 
 
 
@@ -71,16 +71,19 @@ AI Engineer with strong experience in building enterprise GenAI applications, LL
 - Experience delivering enterprise AI solutions
 - Excellent communication and documentation
 - Ability to work in multicultural teams
-- Adaptable, fast learner, and committed to continuous improvement
+- Adaptable, fast learner, and committed to continuous improvement<br><br>
 
 
 
-## Location & Availability
-**Currently in Dubai, UAE.**
-**Available to join immediately for AI/ML/GenAI roles**
+## Location & Availability  
+
+**Currently in Dubai, UAE.**  
+
+**Available to join immediately for AI/ML/GenAI roles**  
+
 **Open to opportunities in:**
 - Banking & Finance
 - Insurance & FinTech
 - Retail & E-commerce
 - Government / Smart City AI
-- Manufacturing & Industrial AI Solutions
+- Manufacturing & Industrial AI Solutions<br><br>
