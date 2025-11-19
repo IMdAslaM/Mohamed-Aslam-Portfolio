@@ -21,7 +21,7 @@ AI Engineer with strong experience in building enterprise GenAI applications, LL
 
 
 ## Professional Experience
-***Software Engineer | Cognizant | June 2022 – Present | Chennai, India***
+&nbsp;&nbsp;&nbsp;***Software Engineer | Cognizant | June 2022 – Present | Chennai, India***
 
 ### Agentic JIRA Workflow Automation (CrewAI | Software Engineering Domain)
 - Developed an end-to-end agentic automation system using CrewAI to convert BRDs into structured user stories, reducing manual JIRA ticket effort by 50%.
@@ -81,7 +81,6 @@ AI Engineer with strong experience in building enterprise GenAI applications, LL
 ## Location & Availability  
 
 **Currently in Dubai, UAE.**  
-
 **Available to join immediately for AI/ML/GenAI roles**  
 
 **Open to opportunities in:**
