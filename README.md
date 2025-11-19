@@ -32,11 +32,11 @@ AI Engineer with strong experience in building enterprise GenAI applications, LL
 
 ### LLM Development & Guardrail Engineering (Insurance Domain)
 
-  **Mistral 7B Fine-Tuning & Deployment**
+&nbsp;**Mistral 7B Fine-Tuning & Deployment**
 - Fine-tuned Mistral 7B using PEFT, resulting in 18% improvement in insurance NLP tasks.
 - Containerized model deployment using Docker, reducing rollout time by 40%.
 
-  **Enterprise-Grade LLM Guardrails**
+&nbsp;**Enterprise-Grade LLM Guardrails**
 - Implemented Nemo-Guardrails for self-hosted LLMs, ensuring safe and compliant conversational behavior.
 - Integrated guardrails into an insurance chatbot achieving 100% adherence to internal safety and regulatory standards.
 - Developed custom PII masking logic, reducing sensitive data exposure by 90%.
