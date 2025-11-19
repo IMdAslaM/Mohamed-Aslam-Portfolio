@@ -40,7 +40,7 @@ AI Engineer with strong experience in building enterprise GenAI applications, LL
 - Identified a critical documentation issue in NVIDIA CrewAI Blueprint related to mandatory NIM API key usage, enabling internal teams to avoid integration failures.
 
 ### Conversational AI Projects
-**LLM-Based Banking Chatbot (US Bank)**
+**LLM-Based Banking Chatbot (Banking Domain)**
 - Built a GPT-powered chatbot POC to generate financial advisor summaries, market insights, and stock recommendations.
 - Designed for scalability and potential use by 500+ traders, improving decision-making workflows.
 **Small Business Chatbot (Retail & Food Domain)**
